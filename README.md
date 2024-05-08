@@ -32,7 +32,7 @@
 
   ## Residential IPv6 Proxies
 
-![image](https://github.com/oxylabs/ipv6-proxy/assets/103110131/ca0be9f7-06af-44d1-b051-f2c8cfae2f43)
+[![image](https://github.com/oxylabs/ipv6-proxy/assets/103110131/ca0be9f7-06af-44d1-b051-f2c8cfae2f43)](https://oxylabs.io/products/ipv6-proxy)
 
 
 Choose our **rotating IPv6 proxies** coming from a **pool of 100M+ residential IPs** that boast **success rates of approx. 99.95%.**
